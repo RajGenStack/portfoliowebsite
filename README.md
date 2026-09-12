@@ -5,6 +5,17 @@ A self-contained, single-file portfolio for Rajan Kumar, DevOps Engineer (AWS ·
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
 
+<p>
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/RajGenStack/portfoliowebsite?style=flat-square&labelColor=0d1117&color=ff6b35">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/RajGenStack/portfoliowebsite?style=flat-square&labelColor=0d1117&color=8b949e">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RajGenStack/portfoliowebsite?style=flat-square&labelColor=0d1117&color=8b949e">
+</p>
+
+## What this demonstrates
+
+- A self-contained page with no build step and no dependencies, which loads anywhere
+- Content structured for the reader: skills, projects, experience and credentials in one pass
+
 ## Sections
 
 - **About:** DevOps engineer and cloud architect profile
